@@ -1,10 +1,10 @@
 # 个人文档总结
 
-截至目前：JavaSE---Mysql---(HTML+CSS+JS)---Vue3框架---ES6(JS)语言---JavaWeb---
+截至目前学习：JavaSE---Mysql---(HTML+CSS+JS)---Vue3框架---ES6(JS)语言---JavaWeb---
 
 SSM---SpringBoot---linux---Redis---Git
 
-
+![](C:\Users\89585\Desktop\笔记仓库\images\java-logo.png)
 
 ## JavaSe
 
