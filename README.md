@@ -1,8 +1,6 @@
 # 个人文档总结
 
-截至目前学习：JavaSE---Mysql---(HTML+CSS+JS)---Vue3框架---ES6(JS)语言---JavaWeb---
-
-SSM---SpringBoot---linux---Redis---Git
+截至目前学习：JavaSE---Mysql---(HTML+CSS+JS)---Vue3框架---ES6(JS)语言---JavaWeb---SSM---SpringBoot---linux---Redis---Git
 
 ![](https://gitee.com/fan-yuxuan-simonfan/summary-notes/raw/master/images/java-logo.jpg)
 
