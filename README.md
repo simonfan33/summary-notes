@@ -4,7 +4,7 @@
 
 SSM---SpringBoot---linux---Redis---Git
 
-![](C:\Users\89585\Desktop\笔记仓库\images\java-logo.png)
+![](images\java-logo.png)
 
 ## JavaSe
 
