@@ -4,7 +4,7 @@
 
 SSM---SpringBoot---linux---Redis---Git
 
-![](images\java-logo.png)
+![](https://gitee.com/fan-yuxuan-simonfan/summary-notes/blob/master/images/java-logo.jpg)
 
 ## JavaSe
 
