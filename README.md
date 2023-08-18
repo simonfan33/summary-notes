@@ -34,11 +34,11 @@
 
 ## Mysql
 
-- Mysql基础语法 & Mysql介绍
-- Sql进阶语法
-- 事务
-- 约束
-- 属性操作
+- [Mysql基础语法 & Mysql介绍](https://gitee.com/FanSimon/summary-notes/blob/master/Mysql/day01%20MySQL%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D%20%E5%92%8C%20%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
+- [Sql进阶语法](https://gitee.com/FanSimon/summary-notes/blob/master/Mysql/day02%20SQL%E8%BF%9B%E9%98%B6%E8%AF%AD%E6%B3%95.md)
+- [事务](https://gitee.com/FanSimon/summary-notes/blob/master/Mysql/day3%20%E4%BA%8B%E5%8A%A1.md)
+- [约束](https://gitee.com/FanSimon/summary-notes/blob/master/Mysql/day3%20%E7%BA%A6%E6%9D%9F%E5%92%8CMYSQL%E5%B1%9E%E6%80%A7%E6%93%8D%E4%BD%9C.md)
+- [属性操作](https://gitee.com/FanSimon/summary-notes/blob/master/Mysql/day3%20%E7%BA%A6%E6%9D%9F%E5%92%8CMYSQL%E5%B1%9E%E6%80%A7%E6%93%8D%E4%BD%9C.md)
 
 ## JDBC
 
