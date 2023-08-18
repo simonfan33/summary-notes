@@ -6,7 +6,8 @@
 
 ## JavaSe
 
-- [基础语法 ---数据类型 --- 流程控制 --- 方法](https://gitee.com/FanSimon/summary-notes/tree/master/JavaSe)
+- 基础
+  - [Java语言概述](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day01Java%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0.md)
 - 数组
 - 面向对象三大特征 --- 封装 --- 继承 --- 多态
 - 抽象类
