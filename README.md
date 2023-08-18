@@ -32,16 +32,6 @@
   - [注解和反射-02](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day22%E6%B3%A8%E8%A7%A3%E5%92%8C%E5%8F%8D%E5%B0%84.md)
   - [JDK新特性-01](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day22JDK8%E6%96%B0%E7%89%B9%E6%80%A71.md)
   - [JDK新特性-02](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day22JDK8%E6%96%B0%E7%89%B9%E6%80%A72.md)
-- 数组
-- 面向对象三大特征 --- 封装 --- 继承 --- 多态
-- 抽象类
-- 接口
-- 集合
-- 异常
-- IO流
-- 多线程
-- 泛型
-- 反射
 
 ## Mysql
 
