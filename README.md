@@ -25,7 +25,13 @@
   - [常用类-03](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day15%E7%AC%94%E8%AE%B0%E5%B8%B8%E7%94%A8%E7%B1%BB.md)
   - [常用类-04](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day16%E5%B8%B8%E7%94%A8%E7%B1%BB.md)
   - [IO流](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day17IO.md)
-  - 
+  - [多线程-01](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day18%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
+  - [多线程-02](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day19%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
+  - [网络编程](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md)
+  - [注解和反射-01](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day21%E6%B3%A8%E8%A7%A3%E5%92%8C%E5%8F%8D%E5%B0%84.md)
+  - [注解和反射-02](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day22%E6%B3%A8%E8%A7%A3%E5%92%8C%E5%8F%8D%E5%B0%84.md)
+  - [JDK新特性-01](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day22JDK8%E6%96%B0%E7%89%B9%E6%80%A71.md)
+  - [JDK新特性-02](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day22JDK8%E6%96%B0%E7%89%B9%E6%80%A72.md)
 - 数组
 - 面向对象三大特征 --- 封装 --- 继承 --- 多态
 - 抽象类
