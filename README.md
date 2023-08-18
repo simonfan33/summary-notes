@@ -42,9 +42,9 @@
 
 ## JDBC
 
-- JDBC概述
-- JDBC 概述 到 数据库连接池
-- DAO 接口
+- [JDBC概述](https://gitee.com/FanSimon/summary-notes/blob/master/JDBC/day04JDBC%E6%A6%82%E8%BF%B0.md)
+- [JDBC 概述 到 数据库连接池](https://gitee.com/FanSimon/summary-notes/blob/master/JDBC/day04JDBC%E6%A6%82%E8%BF%B0%E5%88%B0%E6%95%B0%E6%8D%AE%E8%BF%9E%E6%8E%A5%E6%B1%A0.md)
+- [DAO 接口](https://gitee.com/FanSimon/summary-notes/blob/master/JDBC/day05DAO.md)
 
 ## JavaWeb + 前端
 
