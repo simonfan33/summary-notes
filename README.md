@@ -10,6 +10,22 @@
   - [Java语言概述](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day01Java%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0.md)
   - [变量和数据类型-01](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day02%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
   - [变量和数据类型-02](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day03%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+  - [流程控制和方法](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day04%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E5%92%8C%E6%96%B9%E6%B3%95.md)
+  - [循环结构](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day05%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md)
+  - [方法与数组](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day06%E6%96%B9%E6%B3%95%E5%92%8C%E6%95%B0%E7%BB%84%E4%B8%80%E5%8D%8A.md)
+  - [数组](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day07%E6%95%B0%E7%BB%84.md)
+  - [初始面向对象](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day08%E5%88%9D%E8%AF%86%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
+  - [封装和继承](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day09%E5%B0%81%E8%A3%85%E5%92%8C%E7%BB%A7%E6%89%BF.md)
+  - [方法重写和多态-01](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day09%E5%B0%81%E8%A3%85%E5%92%8C%E7%BB%A7%E6%89%BF.md)
+  - [方法重写和多态-02](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day11%E6%96%B9%E6%B3%95%E9%87%8D%E5%86%99%E5%92%8C%E5%A4%9A%E6%80%81.md)
+  - [多态](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day11%E6%96%B9%E6%B3%95%E9%87%8D%E5%86%99%E5%92%8C%E5%A4%9A%E6%80%81.md)
+  - [接口](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day13%E6%8E%A5%E5%8F%A3.md)
+  - [常用类-01](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day14%E5%B8%B8%E7%94%A8%E7%B1%BB.md)
+  - [常用类-02](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day15%E5%B8%B8%E7%94%A8%E7%B1%BB.md)
+  - [常用类-03](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day15%E7%AC%94%E8%AE%B0%E5%B8%B8%E7%94%A8%E7%B1%BB.md)
+  - [常用类-04](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day16%E5%B8%B8%E7%94%A8%E7%B1%BB.md)
+  - [IO流](https://gitee.com/FanSimon/summary-notes/blob/master/JavaSe/day17IO.md)
+  - 
 - 数组
 - 面向对象三大特征 --- 封装 --- 继承 --- 多态
 - 抽象类
