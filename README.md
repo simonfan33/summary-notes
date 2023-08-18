@@ -6,30 +6,16 @@
 
 ## JavaSe
 
-- 基础语法 ---数据类型 --- 流程控制 --- 方法 
-
-  [跳转]: https://gitee.com/FanSimon/summary-notes/tree/master/JavaSe	"跳转"
-
-  
-
+- [基础语法 ---数据类型 --- 流程控制 --- 方法](https://gitee.com/FanSimon/summary-notes/tree/master/JavaSe)
 - 数组
-
 - 面向对象三大特征 --- 封装 --- 继承 --- 多态
-
 - 抽象类
-
 - 接口
-
 - 集合
-
 - 异常
-
 - IO流
-
 - 多线程
-
 - 泛型
-
 - 反射
 
 ## Mysql
