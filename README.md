@@ -6,9 +6,7 @@
 
 ## JavaSe
 
-- [基础语法]: https://gitee.com/FanSimon/summary-notes/tree/master/JavaSe	"基础语法"
-
-  
+- [基础语法]: https://gitee.com/FanSimon/summary-notes/tree/master/JavaSe
 
 - 数组
 
